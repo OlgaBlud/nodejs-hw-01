@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "26686e26-73f6-4079-92e6-d78efe23832b",
+    "name": "Orlando Kulas",
+    "phone": "(325) 244-5783 x3745",
+    "email": "Heidi_Reichert77@yahoo.com",
+    "job": "Chief Implementation Agent"
+  },
+  {
+    "id": "9472d806-d1a0-46e7-8650-580b4599511e",
+    "name": "Gretchen Reinger",
+    "phone": "295-563-8501 x4409",
+    "email": "Kariane12@hotmail.com",
+    "job": "Principal Infrastructure Engineer"
+  },
+  {
+    "id": "411e9ed9-46a4-41f2-a094-3885fd3d94af",
+    "name": "Mrs. Marta Davis",
+    "phone": "475.973.1455 x775",
+    "email": "Boyd51@yahoo.com",
+    "job": "Internal Assurance Coordinator"
+  },
+  {
+    "id": "012c88ae-0839-433c-8e28-84e27a382a68",
+    "name": "Mr. Charles Jast DDS",
+    "phone": "376.745.6571 x7560",
+    "email": "Nasir_Waters@yahoo.com",
+    "job": "Investor Tactics Engineer"
+  },
+  {
+    "id": "1b703a10-2cfe-4846-aeef-f7cb82fb0308",
+    "name": "Miss Toni Cormier",
+    "phone": "892-795-1411",
+    "email": "Monroe20@yahoo.com",
+    "job": "Lead Configuration Supervisor"
+  }
+]
